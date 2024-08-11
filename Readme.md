@@ -5,7 +5,7 @@
 <p>Umumnya, kita akan menggunakan duplikat file agar setiap revisi atau perubahan pada file dapat terekam. Akan tetapi, hal itu tentu dapat memakan memori yang ada di dekstop kita, sehingga dengan hadirnya git ini kita dapat mengatur perubahan pada file kita.</p>
 
 ### Sebagai contoh :
-<img src="/assets/Screenshot 2024-08-11 054707.png" width="100px" alt="image"><br>
+<img src="/assets/Screenshot 2024-08-11 054707.png" width="500px" alt="image"><br>
 
 <p>Pada contoh diatas kita melakukan duplikat file setiap kali akan melakukan perubahan, hal tersebut bisa saja dilakukan akan tetapi tentu dapat memakan memory yang cukup banyak. Oleh karena itulah kita membutuhkan GIT untuk mengatur setiap versi pada file kita</p>
 
